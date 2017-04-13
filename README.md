@@ -2,9 +2,11 @@
 版本：1.0.20170328  
 -By 向宇翔 [ <a href='http://vanxkr.com' target='_blank'>vanxkr.com</a> | vanxkr@gmail.com ] 
 
-环境：
+环境：  
+```
 OS: ubuntu14.04 x86  
 python: 2.7.9  
+```
 
 model安装:
 ```shell
